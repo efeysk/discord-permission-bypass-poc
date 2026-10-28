@@ -76,7 +76,7 @@ Ancak bu işlem, Discord sunucusunun gerçek sahibini değiştirmez. Ayrıca öz
 
 ### 5. Değişiklikleri Geri Alma Mekanizması
 
-Kod, `cleanupPermissionOverrides()` adlı bir fonksiyon tanımlar.
+Kod, `herseyiTemizle()` adlı bir fonksiyon tanımlar.
 
 Bu fonksiyon, önceden kaydedilmiş bazı fonksiyonları eski hâline döndürmeye çalışır.
 
