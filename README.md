@@ -179,8 +179,3 @@ Bu kavram kanıtı, Discord'un sunucu tarafı yetkilendirme sisteminde bir güve
 
 # README.md dosyası ChatGPT yardımıyla hazırlanmıştır.
 
-## Lisans
-
-Bu depoyu dağıtmadan önce kullanım amacınıza uygun bir açık kaynak lisansı seçin.
-
-Bu README tek başına herhangi bir lisans hakkı vermez.
